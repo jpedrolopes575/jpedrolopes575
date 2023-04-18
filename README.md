@@ -5,7 +5,7 @@
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=jpedrolopes575&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrolopes575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrolopes575&theme=blue-green)
 
 ## Linguagens que eu uso no meu dia
 
