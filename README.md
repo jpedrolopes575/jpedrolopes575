@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpedrolopz/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bcgz3dddwla7lgyq7pjdmq54lu)
 
-![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username={jpedrolopes575}&theme=blue-green)
+![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrolopes575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
