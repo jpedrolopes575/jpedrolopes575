@@ -1,6 +1,7 @@
 ## Oi, meu nome é João Pedro  ⚡
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpedrolopz/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopes.pedro07@aluno.ifce.edu.br)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bcgz3dddwla7lgyq7pjdmq54lu)
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=jpedrolopes575&theme=blue-green) 
