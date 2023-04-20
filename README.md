@@ -22,4 +22,10 @@
   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jpedrolopes575}/count.svg" /></p> 
+<br></div>
+ 
+ 
   ![ Animação de cobra ](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
