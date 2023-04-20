@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+PEDRO+!;COMO+TU+VAI+?;VOCÊ+É+MUITO+BEM+VINDO+AQUI+!)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpedrolopz/)
@@ -31,4 +32,4 @@
  
  
   ![ Animação de cobra ](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+ 
